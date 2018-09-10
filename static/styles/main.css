@@ -26,6 +26,9 @@ body {
     background-color: transparent;
     height: auto;
 }
+#brand-logo {
+    margin-right: 10px;
+}
 #search {
     width: 90%;
     -webkit-transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
