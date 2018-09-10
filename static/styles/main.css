@@ -62,7 +62,9 @@ body {
         
 
     }
-    #studentSelector li{
+    #studentSelector li a {
+        width: 100%;
+        display: block;
         text-align: center;
         background: #28a745;
         font-weight: 400;
