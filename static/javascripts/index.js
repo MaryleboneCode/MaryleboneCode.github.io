@@ -1,5 +1,5 @@
 $("#search").hideseek({
     highlight: true,
-    nodata: "No students found",
+    nodata: "No results found",
     ignore_accents: true
 });
